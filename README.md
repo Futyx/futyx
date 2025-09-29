@@ -1,4 +1,4 @@
-## Hi there! I'm Futya 👋
+## Hi there! I'm Futyx👋
 
 
 I'm a developer driven by **algorithmic curiosity**, constantly seeking to understand the foundational logic behind robust systems. I specialize in building solutions across the stack, prioritizing **clean architecture** and problem-solving over framework loyalty.
