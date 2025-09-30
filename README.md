@@ -12,7 +12,7 @@ My experience is focused on foundational languages and includes proficiency in m
 | :--- | :--- |
 | **Foundational** | Vanilla JavaScript, HTML5, CSS3, **PHP** |
 | **Frameworks** | **Vue.js** (Frontend), **Laravel** (Backend) |
-| **Concepts** | Algorithms (like Shunting-Yard!), Data Structures, Clean Architecture |
+| **Concepts** | Algorithms , Data Structures, Clean Architecture |
 | **Version Control** | Git, GitHub |
 | **Databases** | [e.g., MySQL, PostgreSQL, SQLite] |
 
